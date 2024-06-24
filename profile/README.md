@@ -24,4 +24,4 @@ Download Momee Now and Unleash the Joy of Effortless Parenting! Don't Miss Out â
 | 4 | C010D4KX0591 | Kayla Luthfianti Hammas | Universitas Indonesia | Associate Project Manager / Bussiness |
 | 5 | C254D4KY1086 | Roby Yasir Amri | Universitas Mercu Buana | DevOps Engineer |
 | 6 | A254D4KY3844 | Syahrul Fahmi | Universitas Mercu Buana | Android Developer |
-| 7 | A131D4KY4262 | Wildan Hafidz Mauludin | Politeknik Negeri Malang | Android Developer / UI/UX Designer |
+
